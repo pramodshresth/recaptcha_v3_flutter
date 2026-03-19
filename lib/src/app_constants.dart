@@ -10,5 +10,5 @@ class AppConstants {
   static const String captchaJsChannelName = 'Captcha';
   static const String readyJsChannelName = 'Ready';
   static const String hostedRecaptchaDomain =
-      'https://config.velorona.com/captcha.html';
+      'https://config.velorona.com/captcha.html/';
 }
